@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\bin\Debug\NET_hw12_ChartColumn.exe.config
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\bin\Debug\NET_hw12_ChartColumn.exe
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\bin\Debug\NET_hw12_ChartColumn.pdb
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\obj\Debug\NET_hw12_ChartColumn.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\obj\Debug\NET_hw12_ChartColumn.Form1.resources
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\obj\Debug\NET_hw12_ChartColumn.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\obj\Debug\NET_hw12_ChartColumn.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\obj\Debug\NET_hw12_ChartColumn.exe
+C:\Users\USER\source\repos\NET_hw12_ChartColumn\NET_hw12_ChartColumn\obj\Debug\NET_hw12_ChartColumn.pdb
